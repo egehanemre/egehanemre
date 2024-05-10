@@ -1,4 +1,4 @@
-<h3>Languages and Tools:</h3>
+<h3>My Toolset:</h3>
 
 <p>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
