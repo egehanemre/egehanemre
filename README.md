@@ -1,4 +1,3 @@
-Currently Working With [PolygonSoft Games](https://github.com/PolygonSoft-Games)
 <h3>My Toolset:</h3>
 
 <p>
